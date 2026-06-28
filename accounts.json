@@ -1,0 +1,18 @@
+[
+     {
+          "acc_no": 121212,
+          "name": "Yogeshh",
+          "PIN": "123",
+          "balance": 600,
+          "transactions": [
+               "Deposited 400"
+          ]
+     },
+     {
+          "acc_no": 232323,
+          "name": "Rahul",
+          "PIN": "234",
+          "balance": 100,
+          "transactions": []
+     }
+]
